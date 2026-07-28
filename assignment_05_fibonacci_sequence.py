@@ -84,7 +84,4 @@ def main():
     print_fibonacci(n)
     number = int(input("Enter a number to check: "))
     check_fibonacci(number)
-
-
-# Call the main function
 main()
