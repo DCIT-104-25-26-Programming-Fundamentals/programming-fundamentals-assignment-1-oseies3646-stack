@@ -73,8 +73,5 @@ def main():
     print("Sum:    ", calculate_sum(numbers))
     print("Average:", calculate_average(numbers))
     print("Maximum:", find_max(numbers))
-    print("Minimum:", find_min(numbers))
-
-
-# Call the main function
+    print("Minimum:", find_min(numbers)
 main()
