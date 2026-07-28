@@ -145,7 +145,4 @@ def main():
         elif choice == "6":
             result = exponent(num1, num2)
             print(f"Result: {num1} ** {num2} = {result}")
-
-
-# Start the program
 main()
