@@ -162,7 +162,4 @@ def main():
 
         else:
             print("Error: Invalid menu choice.")
-
-
-# Start the program
 main()
