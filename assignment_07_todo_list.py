@@ -79,7 +79,6 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
-# Function to add a task
 def add_task(tasks):
     task = input("Enter task: ")
     tasks.append(task)
@@ -132,6 +131,4 @@ def main():
 
         else:
             print("Error: Invalid menu choice. Please try again.")
-
-# Start the program
 main()
