@@ -80,5 +80,4 @@ def main():
         print("Error: Number must be a positive integer.")
         return
     multiple_tables(n)
-
 main()
