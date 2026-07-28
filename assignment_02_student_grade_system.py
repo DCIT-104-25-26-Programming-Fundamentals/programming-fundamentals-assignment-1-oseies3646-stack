@@ -65,7 +65,4 @@ def main():
         print("Error: Score must be between 0 and 100.")
     else:
         print("Grade:", grade)
-
-
-# Call the main function
 main()
